@@ -1,7 +1,7 @@
-#### 한신대학교 AI&SW 김우진
-# python과 c언어로 성장하는 개발자
-# instagram : mujin_._
-# Dongtan
+# 한신대학교 AI&SW 김우진
+## python과 c언어로 성장하는 개발자
+### instagram : mujin_._
+#### Dongtan
 <!--
 **mujin15/mujin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
