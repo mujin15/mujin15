@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-python과 c언어로 성장하는 개발자
-instagram : mujin_._
-Dongtan
+# python과 c언어로 성장하는 개발자
+# instagram : mujin_._
+# Dongtan
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
