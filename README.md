@@ -1,9 +1,13 @@
-## Hi there 👋
+## 한신대학교 AI&SW 김우진
 
 <!--
 **mujin15/mujin15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+python과 c언어로 성장하는 개발자
+instagram : mujin_._
+Dongtan
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
