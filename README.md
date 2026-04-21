@@ -1,5 +1,5 @@
 # 한신대학교 AI&SW 김우진
-## python과 c언어로 성장하는 개발자
+## :fire: python과 c언어로 성장하는 개발자
 ### instagram : mujin_._
 #### Dongtan
 <!--
